@@ -1,4 +1,4 @@
-# Workshop 4: Funky Poem Generator
+# Workshop 4: Funky Poem Generator TW: FLASHING LIGHTS
 
 Website link: (https://harn475.github.io/workshop-6/)
 
