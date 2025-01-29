@@ -40,9 +40,6 @@ One of the challenges during the development of this project was deciding on how
 
 This project allowed me to explore creative coding, combining text manipulation with dynamic visual elements. I really enjoyed the process of making the poem both visually engaging and interactive. The functionality for adding lines and automatically generating a title was particularly satisfying to implement. If I could change anything, it would be to enhance the styling of the title itself, as I feel the current version could be more eye-catching. Overall, this was a fun project.
 
-Certainly! Here's a reference list along with a declaration of your help sources:
-
----
 
 **Reference List:**
 
