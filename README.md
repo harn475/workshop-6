@@ -39,3 +39,21 @@ One of the challenges during the development of this project was deciding on how
 ## Reflection
 
 This project allowed me to explore creative coding, combining text manipulation with dynamic visual elements. I really enjoyed the process of making the poem both visually engaging and interactive. The functionality for adding lines and automatically generating a title was particularly satisfying to implement. If I could change anything, it would be to enhance the styling of the title itself, as I feel the current version could be more eye-catching. Overall, this was a fun project.
+
+Certainly! Here's a reference list along with a declaration of your help sources:
+
+---
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit Users.
+
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
